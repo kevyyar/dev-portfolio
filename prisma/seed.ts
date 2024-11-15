@@ -10,11 +10,8 @@ async function main() {
       data: {
         title: "Real Estate",
         slug: "real-estate",
-        description: `A modern real estate platform built with PHP and React, designed to streamline property searching and listing management. The application features an intuitive user interface, advanced search capabilities, and a robust admin dashboard for property management.
-
-        The frontend is built with React and TailwindCSS, providing a responsive and modern user experience. PHP handles the backend operations, with MySQL serving as the database for efficient data management.
-
-        Key features include property filtering, image galleries, contact forms, and an admin panel for real estate agents to manage their listings.`,
+        description:
+          "A modern real estate platform built with PHP and React, designed to streamline property searching and listing management. The application features an intuitive user interface, advanced search capabilities, and a robust admin dashboard for property management.",
         image: "/assets/real-estate.png",
         technologies: ["React", "TypeScript", "Tailwind CSS", "PHP", "MySQL"],
         githubUrl: "https://github.com/yourusername/real-estate",
